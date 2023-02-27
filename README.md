@@ -20,6 +20,6 @@
 <br/>  
 
 <div align="center">
-  <img  align="left" width="453" height="139" src="https://github-readme-stats.vercel.app/api?username=codeedocc&hide=prs,issues,contribs,stars&theme=tokyonight&show_icons=true&count_private=true&locale=ru" align="center" />
-  <img align="center" width="350" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeedocc&show_icons=true&layout=compact&count_private=true&langs_count=4&theme=tokyonight&hide=python,html&locale=ru" alt="codeedocc" />
+  <img  align="left" width="450" height="149" src="https://github-readme-stats.vercel.app/api?username=codeedocc&hide=prs,issues,contribs,stars&theme=tokyonight&show_icons=true&count_private=true&locale=en" align="center" />
+  <img align="center" width="450" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeedocc&show_icons=true&layout=compact&count_private=true&langs_count=4&theme=tokyonight&hide=python,html&locale=en" alt="codeedocc" />
 </div>
