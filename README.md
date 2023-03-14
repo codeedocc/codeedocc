@@ -29,7 +29,6 @@
 </a> 
 </p>
 
-
 <div align="center">
 <a href="mailto:newwavecfy@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
@@ -40,9 +39,8 @@
 </div>  
 
 <br/>  
-<br/>  
 
 <div align="center">
-  <img  align="left" width="453" height="139" src="https://github-readme-stats.vercel.app/api?username=codeedocc&hide=prs,issues,contribs,stars&theme=tokyonight&show_icons=true&count_private=true&locale=ru" align="center" />
-  <img align="center" width="350" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeedocc&show_icons=true&layout=compact&count_private=true&langs_count=4&theme=tokyonight&hide=python,html,css,java&locale=en" alt="codeedocc" />
+  <img  align="left" width="453" height="139" src="https://github-readme-stats.vercel.app/api?username=codeedocc&hide=prs,issues,contribs,stars&theme=tokyonight&show_icons=true&count_private=true&locale=en" align="center" />
+  <img align="center" width="350" height="140" src="https://github-readme-stats.vercel.app/api/top-langs?username=codeedocc&show_icons=true&layout=compact&count_private=true&langs_count=4&theme=tokyonight&hide=python,html,css,java,shell&locale=en" alt="codeedocc" />
 </div>
