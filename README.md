@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/codeedocc/codeedocc/main/light.gif#gh-light-mode-only" align="center" height="325" />
 </div> 
 
-<h3 align="center">Языки и Инструменты:</h3>
+<h3 align="center">Стек технологий:</h3>
 
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
